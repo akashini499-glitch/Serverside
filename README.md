@@ -1,15 +1,12 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:27.09.2025
 
 ## AIM:
- To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
+ To design a website to calculate the bmi and display it on the client side as well as on the server side.
 
 
 ## FORMULA:
-P = I<sup>2</sup>R
-<br> P --> Power (in watts)
-<br> I --> Intensity
-<br> R --> Resistance
+bmi=weight/height*height
 
 ## DESIGN STEPS:
 
@@ -35,10 +32,10 @@ Publish the website in the given URL.
 
 
 ## SERVER SIDE PROCESSING:
-
+![alt text](<Screenshot 2025-09-27 161117.png>)
 
 ## HOMEPAGE:
-
+![alt text](<Screenshot 2025-09-27 161020.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
